@@ -1,0 +1,23 @@
+/* Table */
+table {
+    border: 5px solid #666;   
+      width: 50%;
+      
+  }
+  th {
+    background: #f8f8f8; 
+    font-weight: bold;    
+      padding: 2px;
+  }
+  table td {
+    border: 1px solid black; 
+  }
+
+  /* Image */
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+  
